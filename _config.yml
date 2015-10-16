@@ -1,7 +1,7 @@
 name: Dusk
 favicon: null
 layout_spectrum: 0.8
-title: Dusk is the creative ouput of Rhys Jones
+title: Dusk is the creative output of Rhys Jones
 cta:
   domain: null
   bucket: null
@@ -20,7 +20,4 @@ color:
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.5
-purpose:
-  - name: engagement
-    item: null
-    url: null
+purpose: []
