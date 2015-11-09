@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Dusk is the creative output of Rhys Jones]]></title>
         <description><![CDATA[Dusk is the creative output of Rhys Jones]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dusk/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Oct 2015 09:24:42 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 09 Nov 2015 21:26:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dusk/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Icelandic collection]]></title>
+            <description><![CDATA[<article><h1>The Icelandic collection</h1><p>This is a series of photographs shot in and around Iceland.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/865b100a-5214-44eb-8b1f-e6a94c970aca.jpg"></article>]]></description>
+            <link>https://thegrid.ai/dusk/the-icelandic-collection/index.html</link>
+            <guid isPermaLink="false">1ac17a62-614d-4a32-9713-2dd7faeb6cb0</guid>
+            <pubDate>Mon, 09 Nov 2015 21:26:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Rhys]]></title>
             <description><![CDATA[<h1>About Rhys</h1>]]></description>
-            <link>undefinedabout-rhys/index.html</link>
+            <link>https://thegrid.ai/dusk/about-rhys/index.html</link>
             <guid isPermaLink="false">4f7b90c7-f91c-4d3b-ba5a-208f73e211f2</guid>
             <pubDate>Sat, 17 Oct 2015 09:24:36 GMT</pubDate>
         </item>
