@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-11-09T21:23:34.928Z'
-dateModified: '2015-10-17T09:31:25.106Z'
+datePublished: '2015-11-09T21:26:22.592Z'
+dateModified: '2015-11-09T21:24:42.135Z'
 title: The Icelandic collection
 sourcePath: _posts/2015-10-17-the-icelandic-collection.md
 published: true
@@ -18,7 +18,7 @@ publisher:
   url: null
   favicon: null
 url: the-icelandic-collection/index.html
-_type: WebPage
+_type: Article
 
 ---
 This is a series of photographs shot in and around Iceland.
